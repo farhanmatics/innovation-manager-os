@@ -1,0 +1,7 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "skills": {
+    "paths": ["/Users/farhanasif/devuniv/innovation-manager-os/skills"]
+  },
+  "instructions": ["/Users/farhanasif/devuniv/innovation-manager-os/AGENTS.md"]
+}
